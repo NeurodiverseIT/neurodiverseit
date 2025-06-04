@@ -1,2 +1,3 @@
 # website
-A place to build web pages about the group to be shared to BCS
+This is the NeurodiverseIT WG in the British Computing Society
+
