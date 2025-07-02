@@ -1,0 +1,5 @@
+title: NeurodiverseIT Website
+description: A place to build web pages about the group to be shared to BCS
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://neurodiverseit.github.io/website" # your GitHub Pages URL
+theme: minima # or another supported Jekyll theme
